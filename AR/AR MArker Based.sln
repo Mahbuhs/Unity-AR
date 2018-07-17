@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR MArker Based", "Assembly-CSharp.csproj", "{D19E559B-69BD-83B9-26CA-1EA0EC61DAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR MArker Based", "Assembly-CSharp-Editor.csproj", "{AE3C1D72-A363-FF28-CDDC-B1288FA21353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D19E559B-69BD-83B9-26CA-1EA0EC61DAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19E559B-69BD-83B9-26CA-1EA0EC61DAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19E559B-69BD-83B9-26CA-1EA0EC61DAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19E559B-69BD-83B9-26CA-1EA0EC61DAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3C1D72-A363-FF28-CDDC-B1288FA21353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3C1D72-A363-FF28-CDDC-B1288FA21353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3C1D72-A363-FF28-CDDC-B1288FA21353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3C1D72-A363-FF28-CDDC-B1288FA21353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
